@@ -1,0 +1,2 @@
+webpackJsonp([0],{QTi7:function(e,n,t){"use strict";var r={name:"box",props:{gap:String}},a=function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",{style:{margin:e.gap}},[e._t("default")],2)},l=[],s={render:a,staticRenderFns:l},i=s,u=t("VU/8"),c=u(r,i,!1,null,null,null);n.a=c.exports}});
+//# sourceMappingURL=0.9e76ccdc465d12f36211.js.map

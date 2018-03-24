@@ -1,0 +1,21 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"target": "es2017",
+		"module": "commonjs",
+		"declaration": false,
+		"noImplicitAny": false,
+		"preserveConstEnums": true,
+		"removeComments": false,
+		"sourceMap": false,
+		"moduleResolution": "node",
+		"skipLibCheck": true,
+		"allowJs": true,
+		"noLib": false,
+		"emitDecoratorMetadata": true,
+		"experimentalDecorators": true,
+		"types": [ "mocha" ]
+	},
+	"include": [ "./app.ts", "./app/**/*", "./test/**/*", "./config/**/*" ],
+	"exclude": [ "node_modules", "**/*.spec.ts", "**/*.spec.tsx", "typings", "./app/public" ]
+}

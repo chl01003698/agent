@@ -1,0 +1,41 @@
+{
+  "globalDependencies": {
+    "axios": "registry:dt/axios#0.9.1+20161016142654",
+    "bull": "registry:dt/bull#2.1.2+20170221033156",
+    "chance": "registry:dt/chance#0.7.3+20170310065054",
+    "faker": "registry:dt/faker#4.1.0+20170308192816",
+    "lowdb": "registry:dt/lowdb#0.15.0+20170308104825",
+    "mathjs": "registry:dt/mathjs#0.0.0+20170126160507",
+    "moment-timezone": "registry:dt/moment-timezone#0.2.5+20161208060822",
+    "mongoose": "registry:dt/mongoose#4.7.0+20170322192047",
+    "mongoose-paginate": "registry:dt/mongoose-paginate#5.0.0+20161121205806",
+    "node": "registry:dt/node#7.0.0+20170322231424",
+    "randomstring": "registry:dt/randomstring#1.1.4+20161005184000",
+    "uuid": "registry:dt/uuid#3.3.0+20160728152600"
+  },
+  "globalDevDependencies": {
+    "chai": "registry:dt/chai#3.4.0+20170217154556",
+    "mocha": "registry:dt/mocha#2.2.5+20170311011848"
+  },
+  "dependencies": {
+    "bluebird": "registry:npm/bluebird#3.5.0+20170314181206",
+    "bottlejs": "registry:npm/bottlejs#1.2.2+20160306063041",
+    "chalk": "registry:npm/chalk#1.1.1+20160812215109",
+    "commander": "registry:dt/commander#2.3.0+20161118092844",
+    "immutable": "registry:npm/immutable#3.7.6+20160411060006",
+    "ioredis": "registry:dt/ioredis#0.0.0+20161224103521",
+    "joi": "registry:dt/joi#10.0.0+20170211105955",
+    "kue": "registry:npm/kue#0.11.0+20160901110354",
+    "lodash": "registry:npm/lodash#4.0.0+20161015015725",
+    "mongoose": "registry:npm/mongoose#4.3.5+20160628072220",
+    "ms": "registry:npm/ms#0.1.0+20160723033700",
+    "nconf": "registry:dt/nconf#0.0.0+20170310065517",
+    "passport": "registry:npm/passport#0.3.0+20161028163825",
+    "redis": "registry:npm/redis#2.6.0+20160901110043",
+    "supertest": "registry:dt/supertest#1.1.0+20161122042843",
+    "uuid": "registry:npm/uuid#3.0.1+20161206160008",
+    "validator": "registry:npm/validator#5.7.0+20160912014851",
+    "voca": "registry:dt/voca#1.3.0+20170220180702",
+    "winston": "registry:dt/winston#2.3.0+20170323124512"
+  }
+}
